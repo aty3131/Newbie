@@ -1,2 +1,2 @@
 # Newbie
-want to learn many code
+want to learn many code yes
